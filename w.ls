@@ -6,9 +6,9 @@ Schedule Assistent Version=6.000
 TemplateCreatedVersion=Version 10.0.0.000.00  Supports 128 bit SSL
 TemplateLastSavedVersion=Version 10.0.0.000.00  Supports 128 bit SSL 
 Agendas=WebLOAD;
-Start Time=1523362521
+Start Time=1523362901
 Report Resolution=20
-Terminate Time=1523362529
+Terminate Time=1523362906
 Return code=0
 Failure reason=Test passed
 SessionCreatedVersion=Version 10.0.0.000.00  Supports 128 bit SSL 
@@ -191,7 +191,7 @@ Type=Emulation
 Schedule_1=0
 From_1=00000000
 To_1=
-LoadSize_1=2
+LoadSize_1=5
 [SMVDTree]
 Hosts=localhost;;
 [localhost]
