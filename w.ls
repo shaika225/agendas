@@ -3,12 +3,12 @@ Version=5.000
 StatManager Version=5.000
 Report Version=5.000
 Schedule Assistent Version=6.000
-TemplateCreatedVersion=Version 10.0.0.000.00  Supports 128 bit SSL 
+TemplateCreatedVersion=Version 10.0.0.000.00  Supports 128 bit SSL
 TemplateLastSavedVersion=Version 10.0.0.000.00  Supports 128 bit SSL 
 Agendas=WebLOAD;
-Start Time=1523275240
+Start Time=1523362521
 Report Resolution=20
-Terminate Time=1523275248
+Terminate Time=1523362529
 Return code=0
 Failure reason=Test passed
 SessionCreatedVersion=Version 10.0.0.000.00  Supports 128 bit SSL 
@@ -22,7 +22,7 @@ IsMix=0
 MixScriptSelection=2
 Schedule_1=0
 From_1=00000000
-To_1= 
+To_1=
 LoadSize_1=1
 LoadMachines=localhost;
 [WebLOAD : Browser Emulation]
@@ -190,8 +190,8 @@ ClientType=2
 Type=Emulation
 Schedule_1=0
 From_1=00000000
-To_1= 
-LoadSize_1=1
+To_1=
+LoadSize_1=2
 [SMVDTree]
 Hosts=localhost;;
 [localhost]
