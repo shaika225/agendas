@@ -4,11 +4,11 @@ StatManager Version=5.000
 Report Version=5.000
 Schedule Assistent Version=6.000
 TemplateCreatedVersion=Version 10.0.0.000.00  Supports 128 bit SSL
-TemplateLastSavedVersion=Version 10.0.0.000.00  Supports 128 bit SSL 
+TemplateLastSavedVersion=Version 11.2.0.041.00  Supports 128 bit SSL 
 Agendas=WebLOAD;
 [WebLOAD]
 Path=C:\github\agendas\WebLOAD.wlp
-RelativePath=.\WebLOAD.wlp
+RelativePath=..\agendas\WebLOAD.wlp
 ExecutionType=0
 LimitRun=0
 IsMix=0
@@ -184,7 +184,7 @@ Type=Emulation
 Schedule_1=0
 From_1=00000000
 To_1= 
-LoadSize_1=8
+LoadSize_1=9
 [SMVDTree]
 Hosts=localhost;;
 [localhost]
@@ -237,7 +237,7 @@ AutoAdjust=1
 [Data Drilling]
 Data Drilling Enable=1
 Instances Limit=10000
-Data Drilling Show Error=0
+Data Drilling Show Error=1
 [General]
 ReportingResolution=20
 Stop session after=0
