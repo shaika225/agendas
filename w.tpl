@@ -184,7 +184,7 @@ Type=Emulation
 Schedule_1=0
 From_1=00000000
 To_1= 
-LoadSize_1=9
+LoadSize_1=19
 [SMVDTree]
 Hosts=localhost;;
 [localhost]
